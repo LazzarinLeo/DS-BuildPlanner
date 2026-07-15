@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "Ring of Favor and Protection",
+    "type": "ring",
+    "effects": {
+      "hp_percent": 20,
+      "stamina_percent": 20,
+      "equip_load_percent": 20
+    },
+    "breaks_when_removed": true
+  },
+  {
+    "id": 2,
+    "name": "Havel's Ring",
+    "type": "ring",
+    "effects": {
+      "equip_load_percent": 50
+    }
+  },
+  {
+    "id": 3,
+    "name": "Cloranthy Ring",
+    "type": "ring",
+    "effects": {
+      "stamina_recovery_bonus": 20
+    }
+  },
+  {
+    "id": 4,
+    "name": "Wolf Ring",
+    "type": "ring",
+    "effects": {
+      "poise": 40
+    }
+  },
+  {
+    "id": 5,
+    "name": "Ring of Steel Protection",
+    "type": "ring",
+    "effects": {
+      "physical_defense_percent": 50
+    }
+  },
+  {
+    "id": 6,
+    "name": "Bellowing Dragoncrest Ring",
+    "type": "ring",
+    "effects": {
+      "sorcery_damage_percent": 20
+    }
+  },
+  {
+    "id": 7,
+    "name": "Great Swamp Ring",
+    "type": "ring",
+    "effects": {
+      "pyromancy_damage_percent": 20
+    }
+  },
+  {
+    "id": 8,
+    "name": "Ring of the Sun's Firstborn",
+    "type": "ring",
+    "effects": {
+      "miracle_damage_percent": 20
+    }
+  },
+  {
+    "id": 9,
+    "name": "Darkmoon Seance Ring",
+    "type": "ring",
+    "effects": {
+      "attunement_slots": 1
+    }
+  },
+  {
+    "id": 10,
+    "name": "Dark Wood Grain Ring",
+    "type": "ring",
+    "effects": {
+      "roll_type": "flip",
+      "agility_bonus": true
+    }
+  }
+]

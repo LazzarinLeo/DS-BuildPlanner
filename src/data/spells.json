@@ -1,0 +1,117 @@
+[
+  {
+    "id": 1,
+    "name": "Soul Arrow",
+    "type": "sorcery",
+    "uses": 30,
+    "slots": 1,
+    "requirements": {
+      "intelligence": 10
+    },
+    "effect": "Magic projectile"
+  },
+  {
+    "id": 2,
+    "name": "Heavy Soul Arrow",
+    "type": "sorcery",
+    "uses": 12,
+    "slots": 1,
+    "requirements": {
+      "intelligence": 12
+    },
+    "effect": "Heavy magic projectile"
+  },
+  {
+    "id": 3,
+    "name": "Great Soul Arrow",
+    "type": "sorcery",
+    "uses": 20,
+    "slots": 1,
+    "requirements": {
+      "intelligence": 14
+    },
+    "effect": "Strong magic projectile"
+  },
+  {
+    "id": 4,
+    "name": "Soul Spear",
+    "type": "sorcery",
+    "uses": 4,
+    "slots": 1,
+    "requirements": {
+      "intelligence": 36
+    },
+    "effect": "High damage magic spear"
+  },
+  {
+    "id": 5,
+    "name": "Crystal Soul Spear",
+    "type": "sorcery",
+    "uses": 4,
+    "slots": 1,
+    "requirements": {
+      "intelligence": 44
+    },
+    "effect": "Crystalized high damage spear"
+  },
+  {
+    "id": 6,
+    "name": "Fireball",
+    "type": "pyromancy",
+    "uses": 8,
+    "slots": 1,
+    "requirements": {},
+    "effect": "Fire projectile"
+  },
+  {
+    "id": 7,
+    "name": "Great Fireball",
+    "type": "pyromancy",
+    "uses": 4,
+    "slots": 1,
+    "requirements": {},
+    "effect": "Large fire explosion"
+  },
+  {
+    "id": 8,
+    "name": "Chaos Fireball",
+    "type": "pyromancy",
+    "uses": 4,
+    "slots": 2,
+    "requirements": {},
+    "effect": "Creates lava pool"
+  },
+  {
+    "id": 9,
+    "name": "Heal",
+    "type": "miracle",
+    "uses": 5,
+    "slots": 1,
+    "requirements": {
+      "faith": 12
+    },
+    "effect": "Restores HP"
+  },
+  {
+    "id": 10,
+    "name": "Lightning Spear",
+    "type": "miracle",
+    "uses": 10,
+    "slots": 1,
+    "requirements": {
+      "faith": 20
+    },
+    "effect": "Lightning projectile"
+  },
+  {
+    "id": 11,
+    "name": "Great Lightning Spear",
+    "type": "miracle",
+    "uses": 10,
+    "slots": 1,
+    "requirements": {
+      "faith": 30
+    },
+    "effect": "Strong lightning projectile"
+  }
+]

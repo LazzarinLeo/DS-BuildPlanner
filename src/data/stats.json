@@ -1,0 +1,65 @@
+{
+  "stats": [
+    {
+      "name": "Vitality",
+      "description": "Increases HP",
+      "soft_caps": [
+        30,
+        50
+      ]
+    },
+    {
+      "name": "Attunement",
+      "description": "Increases spell slots",
+      "breakpoints": {
+        "10": 1,
+        "12": 2,
+        "14": 3,
+        "16": 4,
+        "19": 5,
+        "23": 6,
+        "28": 7,
+        "34": 8,
+        "41": 9,
+        "50": 10
+      }
+    },
+    {
+      "name": "Endurance",
+      "description": "Increases stamina and equip load",
+      "soft_caps": [
+        40
+      ]
+    },
+    {
+      "name": "Strength",
+      "description": "Weapon strength scaling",
+      "soft_caps": [
+        40
+      ]
+    },
+    {
+      "name": "Dexterity",
+      "description": "Weapon dexterity scaling and casting speed",
+      "soft_caps": [
+        40
+      ]
+    },
+    {
+      "name": "Intelligence",
+      "description": "Sorcery power",
+      "soft_caps": [
+        40,
+        50
+      ]
+    },
+    {
+      "name": "Faith",
+      "description": "Miracle power",
+      "soft_caps": [
+        40,
+        50
+      ]
+    }
+  ]
+}

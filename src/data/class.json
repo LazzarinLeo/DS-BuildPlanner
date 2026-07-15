@@ -1,0 +1,162 @@
+[
+  {
+    "id": 0,
+    "name": "Warrior",
+    "level": 4,
+    "stats": {
+      "vitality": 11,
+      "attunement": 8,
+      "endurance": 12,
+      "strength": 13,
+      "dexterity": 13,
+      "resistance": 11,
+      "intelligence": 9,
+      "faith": 9
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 1,
+    "name": "Knight",
+    "level": 5,
+    "stats": {
+      "vitality": 14,
+      "attunement": 10,
+      "endurance": 10,
+      "strength": 11,
+      "dexterity": 11,
+      "resistance": 10,
+      "intelligence": 9,
+      "faith": 11
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 2,
+    "name": "Wanderer",
+    "level": 3,
+    "stats": {
+      "vitality": 10,
+      "attunement": 11,
+      "endurance": 10,
+      "strength": 10,
+      "dexterity": 14,
+      "resistance": 12,
+      "intelligence": 11,
+      "faith": 8
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 3,
+    "name": "Thief",
+    "level": 5,
+    "stats": {
+      "vitality": 9,
+      "attunement": 11,
+      "endurance": 9,
+      "strength": 9,
+      "dexterity": 15,
+      "resistance": 10,
+      "intelligence": 12,
+      "faith": 11
+    },
+    "starting_gift": "Master Key"
+  },
+  {
+    "id": 4,
+    "name": "Bandit",
+    "level": 4,
+    "stats": {
+      "vitality": 12,
+      "attunement": 8,
+      "endurance": 14,
+      "strength": 14,
+      "dexterity": 9,
+      "resistance": 11,
+      "intelligence": 8,
+      "faith": 10
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 5,
+    "name": "Hunter",
+    "level": 4,
+    "stats": {
+      "vitality": 11,
+      "attunement": 9,
+      "endurance": 11,
+      "strength": 12,
+      "dexterity": 14,
+      "resistance": 11,
+      "intelligence": 9,
+      "faith": 9
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 6,
+    "name": "Sorcerer",
+    "level": 3,
+    "stats": {
+      "vitality": 8,
+      "attunement": 15,
+      "endurance": 8,
+      "strength": 9,
+      "dexterity": 11,
+      "resistance": 8,
+      "intelligence": 15,
+      "faith": 8
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 7,
+    "name": "Pyromancer",
+    "level": 1,
+    "stats": {
+      "vitality": 10,
+      "attunement": 12,
+      "endurance": 11,
+      "strength": 12,
+      "dexterity": 9,
+      "resistance": 12,
+      "intelligence": 10,
+      "faith": 8
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 8,
+    "name": "Cleric",
+    "level": 2,
+    "stats": {
+      "vitality": 11,
+      "attunement": 11,
+      "endurance": 9,
+      "strength": 12,
+      "dexterity": 8,
+      "resistance": 11,
+      "intelligence": 8,
+      "faith": 14
+    },
+    "starting_gift": "None"
+  },
+  {
+    "id": 9,
+    "name": "Deprived",
+    "level": 6,
+    "stats": {
+      "vitality": 11,
+      "attunement": 11,
+      "endurance": 11,
+      "strength": 11,
+      "dexterity": 11,
+      "resistance": 11,
+      "intelligence": 11,
+      "faith": 11
+    },
+    "starting_gift": "None"
+  }
+]

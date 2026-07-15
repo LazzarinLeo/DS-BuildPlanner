@@ -1,0 +1,418 @@
+[
+    {
+        "id": 1,
+        "name": "Elite Knight Helm",
+        "slot": "head",
+        "weight": 3.2,
+        "defense": {
+            "physical": 35,
+            "magic": 20,
+            "fire": 25,
+            "lightning": 18
+        },
+        "poise": 8
+    },
+    {
+        "id": 2,
+        "name": "Elite Knight Armor",
+        "slot": "body",
+        "weight": 8.5,
+        "defense": {
+            "physical": 90,
+            "magic": 50,
+            "fire": 65,
+            "lightning": 45
+        },
+        "poise": 30
+    },
+    {
+        "id": 3,
+        "name": "Elite Knight Gauntlets",
+        "slot": "hands",
+        "weight": 2.8,
+        "defense": {
+            "physical": 28,
+            "magic": 16,
+            "fire": 20,
+            "lightning": 15
+        },
+        "poise": 5
+    },
+    {
+        "id": 4,
+        "name": "Elite Knight Leggings",
+        "slot": "legs",
+        "weight": 5.1,
+        "defensea": {
+            "physical": 55,
+            "magic": 30,
+            "fire": 40,
+            "lightning": 28
+        },
+        "poise": 18
+    },
+    {
+        "id": 5,
+        "name": "Havel's Helm",
+        "slot": "head",
+        "weight": 5.5,
+        "defense": {
+            "physical": 60,
+            "magic": 32,
+            "fire": 40,
+            "lightning": 35
+        },
+        "poise": 18
+    },
+    {
+        "id": 6,
+        "name": "Havel's Armor",
+        "slot": "body",
+        "weight": 19.5,
+        "defense": {
+            "physical": 136,
+            "magic": 70,
+            "fire": 92,
+            "lightning": 72
+        },
+        "poise": 46
+    },
+    {
+        "id": 7,
+        "name": "Havel's Gauntlets",
+        "slot": "hands",
+        "weight": 7.0,
+        "defense": {
+            "physical": 50,
+            "magic": 28,
+            "fire": 35,
+            "lightning": 30
+        },
+        "poise": 10
+    },
+    {
+        "id": 8,
+        "name": "Havel's Leggings",
+        "slot": "legs",
+        "weight": 10.5,
+        "defense": {
+            "physical": 82,
+            "magic": 45,
+            "fire": 60,
+            "lightning": 48
+        },
+        "poise": 25
+    },
+    {
+        "id": 9,
+        "name": "Black Knight Helm",
+        "slot": "head",
+        "weight": 4.5,
+        "defense": {
+            "physical": 46,
+            "magic": 28,
+            "fire": 35,
+            "lightning": 30
+        },
+        "poise": 12
+    },
+    {
+        "id": 10,
+        "name": "Black Knight Armor",
+        "slot": "body",
+        "weight": 10.5,
+        "defense": {
+            "physical": 102,
+            "magic": 58,
+            "fire": 70,
+            "lightning": 50
+        },
+        "poise": 34
+    },
+    {
+        "id": 11,
+        "name": "Black Knight Gauntlets",
+        "slot": "hands",
+        "weight": 3.5,
+        "defense": {
+            "physical": 35,
+            "magic": 22,
+            "fire": 28,
+            "lightning": 20
+        },
+        "poise": 7
+    },
+    {
+        "id": 12,
+        "name": "Black Knight Leggings",
+        "slot": "legs",
+        "weight": 6.2,
+        "defense": {
+            "physical": 65,
+            "magic": 38,
+            "fire": 48,
+            "lightning": 34
+        },
+        "poise": 22
+    },
+    {
+        "id": 13,
+        "name": "Knight Helm",
+        "slot": "head",
+        "weight": 2.5,
+        "defense": {
+            "physical": 30,
+            "magic": 18,
+            "fire": 22,
+            "lightning": 16
+        },
+        "poise": 6
+    },
+    {
+        "id": 14,
+        "name": "Knight Armor",
+        "slot": "body",
+        "weight": 7.8,
+        "defense": {
+            "physical": 75,
+            "magic": 42,
+            "fire": 55,
+            "lightning": 38
+        },
+        "poise": 24
+    },
+    {
+        "id": 15,
+        "name": "Knight Gauntlets",
+        "slot": "hands",
+        "weight": 2.1,
+        "defense": {
+            "physical": 24,
+            "magic": 14,
+            "fire": 18,
+            "lightning": 12
+        },
+        "poise": 4
+    },
+    {
+        "id": 16,
+        "name": "Knight Leggings",
+        "slot": "legs",
+        "weight": 4.8,
+        "defense": {
+            "physical": 50,
+            "magic": 28,
+            "fire": 35,
+            "lightning": 25
+        },
+        "poise": 15
+    },
+    {
+        "id": 17,
+        "name": "Black Sorcerer Hat",
+        "slot": "head",
+        "weight": 1.2,
+        "defense": {
+            "physical": 12,
+            "magic": 30,
+            "fire": 18,
+            "lightning": 15
+        },
+        "poise": 0
+    },
+    {
+        "id": 18,
+        "name": "Sorcerer Cloak",
+        "slot": "body",
+        "weight": 2.4,
+        "defense": {
+            "physical": 24,
+            "magic": 55,
+            "fire": 35,
+            "lightning": 30
+        },
+        "poise": 0
+    },
+    {
+        "id": 19,
+        "name": "Sorcerer Gauntlets",
+        "slot": "hands",
+        "weight": 1.0,
+        "defense": {
+            "physical": 10,
+            "magic": 20,
+            "fire": 15,
+            "lightning": 12
+        },
+        "poise": 0
+    },
+    {
+        "id": 20,
+        "name": "Sorcerer Waistcloth",
+        "slot": "legs",
+        "weight": 1.1,
+        "defense": {
+            "physical": 14,
+            "magic": 32,
+            "fire": 20,
+            "lightning": 18
+        },
+        "poise": 0
+    },
+  {
+        "id": 21,
+        "name": "Pyromancer Crown",
+        "slot": "head",
+        "weight": 1.0,
+        "defense": {
+            "physical": 10,
+            "magic": 18,
+            "fire": 25,
+            "lightning": 15
+        },
+        "poise": 0
+    },
+    {
+        "id": 22,
+        "name": "Pyromancer Garb",
+        "slot": "body",
+        "weight": 2.0,
+        "defense": {
+            "physical": 22,
+            "magic": 35,
+            "fire": 50,
+            "lightning": 30
+        },
+        "poise": 0
+    },
+    {
+        "id": 23,
+        "name": "Pyromancer Wrap",
+        "slot": "hands",
+        "weight": 0.8,
+        "defense": {
+            "physical": 8,
+            "magic": 14,
+            "fire": 20,
+            "lightning": 12
+        },
+        "poise": 0
+    },
+    {
+        "id": 24,
+        "name": "Pyromancer Skirt",
+        "slot": "legs",
+        "weight": 1.5,
+        "defense": {
+            "physical": 16,
+            "magic": 25,
+            "fire": 38,
+            "lightning": 22
+        },
+        "poise": 0
+    },
+    {
+        "id": 25,
+        "name": "Cleric Helm",
+        "slot": "head",
+        "weight": 2.0,
+        "defense": {
+            "physical": 24,
+            "magic": 16,
+            "fire": 20,
+            "lightning": 22
+        },
+        "poise": 4
+    },
+    {
+        "id": 26,
+        "name": "Cleric Armor",
+        "slot": "body",
+        "weight": 6.0,
+        "defense": {
+            "physical": 62,
+            "magic": 40,
+            "fire": 45,
+            "lightning": 55
+        },
+        "poise": 20
+    },
+    {
+        "id": 27,
+        "name": "Cleric Gloves",
+        "slot": "hands",
+        "weight": 1.8,
+        "defense": {
+            "physical": 18,
+            "magic": 12,
+            "fire": 15,
+            "lightning": 18
+        },
+        "poise": 3
+    },
+    {
+        "id": 28,
+        "name": "Cleric Trousers",
+        "slot": "legs",
+        "weight": 3.5,
+        "defense": {
+            "physical": 40,
+            "magic": 25,
+            "fire": 30,
+            "lightning": 35
+        },
+        "poise": 12
+    },
+    {
+        "id": 29,
+        "name": "Giant Helm",
+        "slot": "head",
+        "weight": 6.5,
+        "defense": {
+            "physical": 70,
+            "magic": 42,
+            "fire": 55,
+            "lightning": 45
+        },
+        "poise": 20
+    },
+    {
+        "id": 30,
+        "name": "Giant Armor",
+        "slot": "body",
+        "weight": 17.5,
+        "defense": {
+            "physical": 150,
+            "magic": 90,
+            "fire": 120,
+            "lightning": 100
+        },
+        "poise": 55
+    },
+    {
+        "id": 31,
+        "name": "Giant Gauntlets",
+        "slot": "hands",
+        "weight": 5.0,
+        "defense": {
+            "physical": 55,
+            "magic": 32,
+            "fire": 42,
+            "lightning": 35
+        },
+        "poise": 12
+    },
+    {
+        "id": 32,
+        "name": "Giant Leggings",
+        "slot": "legs",
+        "weight": 10.0,
+        "defense": {
+            "physical": 100,
+            "magic": 60,
+            "fire": 80,
+            "lightning": 65
+        },
+        "poise": 35
+    }
+]
